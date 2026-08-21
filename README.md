@@ -1,2 +1,2 @@
-# Personal-website
-My own personal website
+#my personal website
+my first website using html and css, it talks about my hobbies, favorite videogames, etc...
